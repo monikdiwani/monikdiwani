@@ -101,18 +101,13 @@ Collaborative web app built with Next.js and Firebase. Contributed frontend deve
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=monikdiwani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=0A66C2&icon_color=0A66C2&text_color=333333" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monikdiwani&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=0A66C2&text_color=333333" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+| 📦 Public Repos | 👥 Followers | ➕ Following |
+|:-:|:-:|:-:|
+| **10** | **6** | **10** |
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=monikdiwani&hide_border=true&background=ffffff&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2)](https://git.io/streak-stats)
+| 🏆 Achievements | 🌐 Languages Used |
+|:-:|:-:|
+| Pair Extraordinaire · Pull Shark · YOLO | Java · JavaScript · PHP · HTML · Python |
 
 </div>
 
