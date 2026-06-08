@@ -131,21 +131,6 @@ Collaborative crisis-response web app. 🔗 **[Live](https://crisisgrid.vercel.a
 </tr>
 </table>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-`🥇 Pair Extraordinaire` &nbsp;·&nbsp; `🦈 Pull Shark` &nbsp;·&nbsp; `🎯 YOLO`
-
-| 📦 Repos | 👥 Followers | 💬 Languages |
-|:---:|:---:|:---:|
-| **10** | **6** | Java · JS · PHP · Python · HTML |
-
-</div>
-
----
 
 <div align="center">
 
