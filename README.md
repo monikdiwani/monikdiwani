@@ -6,11 +6,11 @@ I believe technology should simplify life, not complicate it. My focus is on cre
 
 ## Current Projects
 
-### 🚀 Nexa
-The all-in-one super app for productivity, finance, organization, and everyday life.
-
 ### 🧠 [MindPersona AI](https://mindpersona-ai.vercel.app/)
 Understand yourself better through AI-powered personality insights and self-discovery.
+
+### 🚀 Nexa
+The all-in-one super app for productivity, finance, organization, and everyday life.
 
 ## Philosophy
 
