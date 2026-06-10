@@ -1,4 +1,4 @@
-# Monik
+# Monik Diwani
 
 > Building products that people return to, not just try.
 
