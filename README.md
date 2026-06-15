@@ -9,7 +9,7 @@ I believe technology should simplify life, not complicate it. My focus is on cre
 ### 🧠 [MindPersona AI](https://mindpersona-ai.vercel.app/)
 Understand yourself better through AI-powered personality insights and self-discovery.
 
-### 🚀 Nexa
+### 🚀 [Nexa]((https://mindpersona-ai.vercel.app/))
 The all-in-one super app for productivity, finance, organization, and everyday life.
 
 ## Philosophy
